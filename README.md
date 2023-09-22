@@ -26,6 +26,8 @@ R語言具有免費、自由、功能完整、擴充性強等優勢特性，是�
 
 2.5 RStudio下載與安裝
 
+下載 [https://github.com/rwepa/teaching-programming-with-r/blob/main/02-r-rstudio.pdf]
+
 # 第3章 套件,函數,資料物件
 
 3.1 R使用環境
@@ -37,6 +39,10 @@ R語言具有免費、自由、功能完整、擴充性強等優勢特性，是�
 3.4 數學運算
 
 3.5 資料物件
+
+下載 [https://github.com/rwepa/teaching-programming-with-r/blob/main/03-r-package_help_data.pdf]
+
+R下載 [https://github.com/rwepa/teaching-programming-with-r/blob/main/03-r_package_help_data.R]
 
 # 第4章 開放資料的匯入
 
