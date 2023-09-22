@@ -42,8 +42,12 @@ R語言具有免費、自由、功能完整、擴充性強等優勢特性，是�
 
 下載 [https://github.com/rwepa/teaching-programming-with-r/blob/main/03-r-package_help_data.pdf]
 
-R下載 [https://github.com/rwepa/teaching-programming-with-r/blob/main/03-r_package_help_data.R]
+R程式碼下載 [https://github.com/rwepa/teaching-programming-with-r/blob/main/03-r_package_help_data.R]
 
 # 第4章 開放資料的匯入
 
+R程式碼下載 [https://github.com/rwepa/teaching-programming-with-r/blob/main/04-r-opendata.R]
+
 # 第5章 graphics套件繪圖
+
+R程式碼下載 [https://github.com/rwepa/teaching-programming-with-r/blob/main/05-r-plot.R]
