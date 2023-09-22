@@ -12,6 +12,8 @@ R語言具有免費、自由、功能完整、擴充性強等優勢特性，是�
 
 1.4 進階程式設計應用-機器學習 (Machine Learning)
 
+下載 [https://github.com/rwepa/teaching-programming-with-r/blob/main/01-programming-introduction.pdf]
+
 # 第2章 免費R語言,RStudio簡介,下載與安裝
 
 2.1 資料科學的心法
