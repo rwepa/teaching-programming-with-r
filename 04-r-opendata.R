@@ -121,7 +121,7 @@ write.table(x = aq.Banqiao.Xizhi,
             file = "aq.Banqiao.Xizhi.csv", 
             sep = ",", 
             row.names = FALSE,
-            fileEncoding = "CP950") # ONLY FOR WINDOWS
+            fileEncoding = "CP950") # ONLY FOR WINDOWS, 使用"BIG-5"亦可.
 
 # RData 資料物件儲存/匯入 -----
 # save(資料物件1, 資料物件2, file = "myData.RData")
